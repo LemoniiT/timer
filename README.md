@@ -1,2 +1,2 @@
 # timer
-chech seconds
+check seconds
